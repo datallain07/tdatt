@@ -1,8 +1,8 @@
-strContent = File được hoàn thành bởi <b><i>TùngAoV TV</i></b>.\n<color=#FF0000>Youtuber</color>: <b><i>TùngAoV TV</i></b>.\n<color=#00BFFF>Telegram</color>: Skill File TùngAoV TV.\n\nĐể được hỗ trợ, vui lòng nhắn qua <color=#00BFFF>Telegram</color>.\nĐể tiếp tục vào game trải nghiệm, hãy nhấn "Đã hiểu"\n
+strContent = <size=24><color=#00ADFF>F</color><color=#07B0FC>i</color><color=#0EB3F9>l</color><color=#15B6F6>e</color> <color=#1CB9F3>đ</color><color=#23BCF0>ư</color><color=#2ABFED>ợ</color><color=#31C2EA>c</color> <color=#38C5E7>t</color><color=#3FC8E4>ạ</color><color=#46CBE1>o</color> <color=#4DCEDE>v</color><color=#54D1DB>à</color> <color=#5BD4D8>h</color><color=#62D7D5>o</color><color=#69DAD2>à</color><color=#70DDCF>n</color> <color=#77E0CC>t</color><color=#7EE3C9>h</color><color=#83FFCB>ành bởi <b>Đạt Allain</b></color></size>\n<b><color=#FF6E6E>Y</color><color=#FF6666>o</color><color=#FF5F5F>u</color><color=#FF5757>T</color><color=#FF4F4F>u</color><color=#FF4848>b</color><color=#FF4040>e</color><color=#FF3838>:</color> <color=#FF3030>Đ</color><color=#FF2929>ạ</color><color=#FF2121>t</color> <color=#FF1919>A</color><color=#FF1111>l</color><color=#FF0A0A>l</color><color=#FF0202>a</color><color=#FF0101>i</color><color=#FF0000>n</color> | <color=#9DE3FF>T</color><color=#94DDFF>i</color><color=#8CD7FF>k</color><color=#83D1FF>T</color><color=#7ACBFF>o</color><color=#71C5FF>k</color><color=#69BFFF>:</color> <color=#60B9FF>Đ</color><color=#57B3FF>ạ</color><color=#4EAEFF>t</color> <color=#46A8FF>A</color><color=#3DA2FF>l</color><color=#349CFF>l</color><color=#2C96FF>a</color><color=#2390FF>i</color><color=#0078FF>n</color></b>\n\n<size=16><i>Theo dõi kênh <color=#FF5555>Y</color><color=#FF4D4D>o</color><color=#FF4545>u</color><color=#FF3D3D>T</color><color=#FF3535>u</color><color=#FF2D2D>b</color><color=#FF2525>e</color> để nhận thông báo khi có những bản mod mới\nMọi vấn đề cần hỗ trợ, vui lòng nhắn tin qua nhóm <color=#83D1FF>Z</color><color=#74C7FF>a</color><color=#65BDFF>l</color><color=#56B3FF>o</color></i></size>
 hasCancelBtn = true
-onConfirm = nil
-onCancel = https://youtube.com/@tungmodaov2
-confirmStr = Đã hiểu
-cancelStr = Youtube Channel
-titleStr = File Trải Nghiệm by YTB: <b><i>TùngAoV TV</i></b>
+onConfirm = https://youtube.com/@datallain07
+onCancel = https://zalo.me/g/twwfye619
+confirmStr = Kênh Youtube 
+cancelStr = Nhóm Zalo
+titleStr = 
 isShowCloseBtn = true
